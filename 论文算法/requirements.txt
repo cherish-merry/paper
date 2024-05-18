@@ -1,0 +1,7 @@
+sklearn==0.0.post4
+xgboost==2.0.1
+torch==1.12.0
+torchvision== 0.13.0
+pandas==1.2.4
+numpy== 1.23.5
+seaborn==0.12.1

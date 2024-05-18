@@ -1,0 +1,914 @@
+Linux 5.13.0-30-generic (ckz-B460SD4) 	2024年02月15日 	_x86_64_	(12 CPU)
+
+
+23时27分55秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时27分56秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时27分56秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时27分57秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时27分57秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时27分58秒    4    0.00    0.00    1.02    0.00    0.00    3.06    0.00    0.00    0.00   95.92
+
+23时27分58秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时27分59秒    4    0.00    0.00    0.00    0.00    0.00    4.26    0.00    0.00    0.00   95.74
+
+23时27分59秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分00秒    4    0.00    0.00    0.00    0.00    0.00   15.09    0.00    0.00    0.00   84.91
+
+23时28分00秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分01秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时28分01秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分02秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时28分02秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分03秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时28分03秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分04秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时28分04秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分05秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时28分05秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分06秒    4    0.00    0.00    0.00    0.00    0.00   12.38    0.00    0.00    0.00   87.62
+
+23时28分06秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分07秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时28分07秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分08秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时28分08秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分09秒    4    0.00    0.00    0.00    0.00    0.00    3.23    0.00    0.00    0.00   96.77
+
+23时28分09秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分10秒    4    0.00    0.00    0.00    0.00    0.00   11.54    0.00    0.00    0.00   88.46
+
+23时28分10秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分11秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时28分11秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分12秒    4    0.00    0.00    0.00    0.00    0.00   12.38    0.00    0.00    0.00   87.62
+
+23时28分12秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分13秒    4    0.00    0.00    0.00    0.00    0.00   13.21    0.00    0.00    0.00   86.79
+
+23时28分13秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分14秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时28分14秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分15秒    4    0.00    0.00    0.00    0.00    0.00    6.19    0.00    0.00    0.00   93.81
+
+23时28分15秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分16秒    4    0.00    0.00    0.00    0.00    0.00    8.08    0.00    0.00    0.00   91.92
+
+23时28分16秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分17秒    4    0.00    0.00    0.00    0.00    0.00   12.50    0.00    0.00    0.00   87.50
+
+23时28分17秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分18秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时28分18秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分19秒    4    0.00    0.00    0.00    0.00    0.00   13.46    0.00    0.00    0.00   86.54
+
+23时28分19秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分20秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时28分20秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分21秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时28分21秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分22秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时28分22秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分23秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时28分23秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分24秒    4    0.00    0.00    0.00    0.00    0.00    4.21    0.00    0.00    0.00   95.79
+
+23时28分24秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分25秒    4    0.00    0.00    0.00    0.00    0.00    9.90    0.00    0.00    0.00   90.10
+
+23时28分25秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分26秒    4    0.00    0.00    0.00    0.00    0.00    1.09    0.00    0.00    0.00   98.91
+
+23时28分26秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分27秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时28分27秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分28秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时28分28秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分29秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时28分29秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分30秒    4    0.00    0.00    0.00    0.00    0.00   11.65    0.00    0.00    0.00   88.35
+
+23时28分30秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分31秒    4    0.00    0.00    0.00    0.00    0.00    3.16    0.00    0.00    0.00   96.84
+
+23时28分31秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分32秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时28分32秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分33秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时28分33秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分34秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时28分34秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分35秒    4    0.00    0.00    0.00    0.00    0.00   12.50    0.00    0.00    0.00   87.50
+
+23时28分35秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分36秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时28分36秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分37秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时28分37秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分38秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时28分38秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分39秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时28分39秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分40秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时28分40秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分41秒    4    0.00    0.00    0.00    0.00    0.00    8.08    0.00    0.00    0.00   91.92
+
+23时28分41秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分42秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时28分42秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分43秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时28分43秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分44秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时28分44秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分45秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时28分45秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分46秒    4    0.00    0.00    0.00    0.00    0.00   14.95    0.00    0.00    0.00   85.05
+
+23时28分46秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分47秒    4    0.00    0.00    0.00    0.00    0.00    2.15    0.00    0.00    0.00   97.85
+
+23时28分47秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分48秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时28分48秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分49秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时28分49秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分50秒    4    0.00    0.00    0.00    0.00    0.00   12.50    0.00    0.00    0.00   87.50
+
+23时28分50秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分51秒    4    0.00    0.00    0.00    0.00    0.00    5.21    0.00    0.00    0.00   94.79
+
+23时28分51秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分52秒    4    0.00    0.00    0.00    0.00    0.00   11.65    0.00    0.00    0.00   88.35
+
+23时28分52秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分53秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时28分53秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分54秒    4    0.00    0.00    0.00    0.00    0.00    9.90    0.00    0.00    0.00   90.10
+
+23时28分54秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分55秒    4    0.00    0.00    0.00    0.00    0.00    4.21    0.00    0.00    0.00   95.79
+
+23时28分55秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分56秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时28分56秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分57秒    4    0.00    0.00    0.00    0.00    0.00    6.19    0.00    0.00    0.00   93.81
+
+23时28分57秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分58秒    4    0.00    0.00    0.00    0.00    0.00    9.90    0.00    0.00    0.00   90.10
+
+23时28分58秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时28分59秒    4    0.00    0.00    0.00    0.00    0.00    4.26    0.00    0.00    0.00   95.74
+
+23时28分59秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分00秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时29分00秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分01秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时29分01秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分02秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时29分02秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分03秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时29分03秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分04秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时29分04秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分05秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时29分05秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分06秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时29分06秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分07秒    4    0.00    0.00    0.00    0.00    0.00    9.90    0.00    0.00    0.00   90.10
+
+23时29分07秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分08秒    4    0.00    0.00    0.00    0.00    0.00    3.19    0.00    0.00    0.00   96.81
+
+23时29分08秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分09秒    4    0.00    0.00    0.00    0.00    0.00   12.50    0.00    0.00    0.00   87.50
+
+23时29分09秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分10秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时29分10秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分11秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时29分11秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分12秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时29分12秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分13秒    4    0.00    0.00    0.00    0.00    0.00   14.95    0.00    0.00    0.00   85.05
+
+23时29分13秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分14秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时29分14秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分15秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时29分15秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分16秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时29分16秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分17秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时29分17秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分18秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时29分18秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分19秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时29分19秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分20秒    4    0.00    0.00    0.00    0.00    0.00   15.74    0.00    0.00    0.00   84.26
+
+23时29分20秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分21秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时29分21秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分22秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时29分22秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分23秒    4    0.00    0.00    0.00    0.00    0.00    6.19    0.00    0.00    0.00   93.81
+
+23时29分23秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分24秒    4    0.00    0.00    0.00    0.00    0.00    9.90    0.00    0.00    0.00   90.10
+
+23时29分24秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分25秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时29分25秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分26秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时29分26秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分27秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时29分27秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分28秒    4    0.00    0.00    0.00    0.00    0.00   13.46    0.00    0.00    0.00   86.54
+
+23时29分28秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分29秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时29分29秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分30秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时29分30秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分31秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时29分31秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分32秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时29分32秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分33秒    4    0.00    0.00    0.00    0.00    0.00    9.90    0.00    0.00    0.00   90.10
+
+23时29分33秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分34秒    4    0.00    0.00    0.00    0.00    0.00    6.19    0.00    0.00    0.00   93.81
+
+23时29分34秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分35秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时29分35秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分36秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时29分36秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分37秒    4    0.00    0.00    0.00    0.00    0.00    3.19    0.00    0.00    0.00   96.81
+
+23时29分37秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分38秒    4    0.00    0.00    0.00    0.00    0.00   10.78    0.00    0.00    0.00   89.22
+
+23时29分38秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分39秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时29分39秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分40秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时29分40秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分41秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时29分41秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分42秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时29分42秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分43秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时29分43秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分44秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时29分44秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分45秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时29分45秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分46秒    4    0.00    0.00    0.00    0.00    0.00    1.09    0.00    0.00    0.00   98.91
+
+23时29分46秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分47秒    4    0.00    0.00    0.00    0.00    0.00   12.50    0.00    0.00    0.00   87.50
+
+23时29分47秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分48秒    4    0.00    0.00    0.00    0.00    0.00    4.21    0.00    0.00    0.00   95.79
+
+23时29分48秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分49秒    4    0.00    0.00    0.00    0.00    0.00    9.90    0.00    0.00    0.00   90.10
+
+23时29分49秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分50秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时29分50秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分51秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时29分51秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分52秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时29分52秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分53秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时29分53秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分54秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时29分54秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分55秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时29分55秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分56秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时29分56秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分57秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时29分57秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分58秒    4    0.00    0.00    0.00    0.00    0.00   25.41    0.00    0.00    0.00   74.59
+
+23时29分58秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时29分59秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时29分59秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分00秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时30分00秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分01秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时30分01秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分02秒    4    0.00    0.00    0.00    0.00    0.00   14.95    0.00    0.00    0.00   85.05
+
+23时30分02秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分03秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时30分03秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分04秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时30分04秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分05秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时30分05秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分06秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时30分06秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分07秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时30分07秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分08秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时30分08秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分09秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时30分09秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分10秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时30分10秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分11秒    4    0.00    0.00    0.00    0.00    0.00   16.98    0.00    0.00    0.00   83.02
+
+23时30分11秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分12秒    4    0.00    0.00    0.00    0.00    0.00   14.95    0.00    0.00    0.00   85.05
+
+23时30分12秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分13秒    4    0.00    0.00    0.00    0.00    0.00   10.78    0.00    0.00    0.00   89.22
+
+23时30分13秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分14秒    4    0.00    0.00    0.00    0.00    0.00    5.21    0.00    0.00    0.00   94.79
+
+23时30分14秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分15秒    4    0.00    0.00    0.00    0.00    0.00   14.95    0.00    0.00    0.00   85.05
+
+23时30分15秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分16秒    4    0.00    0.00    0.00    0.00    0.00    1.09    0.00    0.00    0.00   98.91
+
+23时30分16秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分17秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时30分17秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分18秒    4    0.00    0.00    0.00    0.00    0.00   10.78    0.00    0.00    0.00   89.22
+
+23时30分18秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分19秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时30分19秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分20秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时30分20秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分21秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时30分21秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分22秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时30分22秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分23秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时30分23秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分24秒    4    0.00    0.00    0.00    0.00    0.00   14.95    0.00    0.00    0.00   85.05
+
+23时30分24秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分25秒    4    0.00    0.00    0.00    0.00    0.00   14.95    0.00    0.00    0.00   85.05
+
+23时30分25秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分26秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时30分26秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分27秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时30分27秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分28秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时30分28秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分29秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时30分29秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分30秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时30分30秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分31秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时30分31秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分32秒    4    0.00    0.00    0.00    0.00    0.00   12.50    0.00    0.00    0.00   87.50
+
+23时30分32秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分33秒    4    0.00    0.00    0.00    0.00    0.00    4.21    0.00    0.00    0.00   95.79
+
+23时30分33秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分34秒    4    0.00    0.00    0.00    0.00    0.00    9.90    0.00    0.00    0.00   90.10
+
+23时30分34秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分35秒    4    0.00    0.00    0.00    0.00    0.00   15.74    0.00    0.00    0.00   84.26
+
+23时30分35秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分36秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时30分36秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分37秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时30分37秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分38秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时30分38秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分39秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时30分39秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分40秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时30分40秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分41秒    4    0.00    0.00    0.00    0.00    0.00   14.95    0.00    0.00    0.00   85.05
+
+23时30分41秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分42秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时30分42秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分43秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时30分43秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分44秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时30分44秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分45秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时30分45秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分46秒    4    0.00    0.00    0.00    0.00    0.00   10.78    0.00    0.00    0.00   89.22
+
+23时30分46秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分47秒    4    0.00    0.00    0.00    0.00    0.00    4.21    0.00    0.00    0.00   95.79
+
+23时30分47秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分48秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时30分48秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分49秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时30分49秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分50秒    4    0.00    0.00    0.00    0.00    0.00   13.46    0.00    0.00    0.00   86.54
+
+23时30分50秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分51秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时30分51秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分52秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时30分52秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分53秒    4    0.00    0.00    0.00    0.00    0.00   12.50    0.00    0.00    0.00   87.50
+
+23时30分53秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分54秒    4    0.00    0.00    0.00    0.00    0.00    3.19    0.00    0.00    0.00   96.81
+
+23时30分54秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分55秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时30分55秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分56秒    4    0.00    0.00    0.00    0.00    0.00    1.09    0.00    0.00    0.00   98.91
+
+23时30分56秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分57秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时30分57秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分58秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时30分58秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时30分59秒    4    0.00    0.00    0.00    0.00    0.00   14.95    0.00    0.00    0.00   85.05
+
+23时30分59秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分00秒    4    0.00    0.00    0.00    0.00    0.00   15.09    0.00    0.00    0.00   84.91
+
+23时31分00秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分01秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时31分01秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分02秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时31分02秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分03秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时31分03秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分04秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时31分04秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分05秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时31分05秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分06秒    4    0.00    0.00    0.00    4.40    0.00    1.10    0.00    0.00    0.00   94.51
+
+23时31分06秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分07秒    4    0.00    0.00    0.00    0.00    0.00   15.74    0.00    0.00    0.00   84.26
+
+23时31分07秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分08秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时31分08秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分09秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时31分09秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分10秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时31分10秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分11秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时31分11秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分12秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时31分12秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分13秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时31分13秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分14秒    4    0.00    0.00    0.00    0.00    0.00   14.95    0.00    0.00    0.00   85.05
+
+23时31分14秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分15秒    4    0.00    0.00    0.00    0.00    0.00    2.15    0.00    0.00    0.00   97.85
+
+23时31分15秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分16秒    4    0.00    0.00    0.00    0.00    0.00   14.95    0.00    0.00    0.00   85.05
+
+23时31分16秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分17秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时31分17秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分18秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时31分18秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分19秒    4    0.00    0.00    0.00    0.00    0.00   15.74    0.00    0.00    0.00   84.26
+
+23时31分19秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分20秒    4    0.00    0.00    0.00    0.00    0.00   14.95    0.00    0.00    0.00   85.05
+
+23时31分20秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分21秒    4    2.78    0.00    0.93    0.00    0.00   15.74    0.00    0.00    0.00   80.56
+
+23时31分21秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分22秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时31分22秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分23秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时31分23秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分24秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时31分24秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分25秒    4    0.00    0.00    0.00    0.00    0.00    1.09    0.00    0.00    0.00   98.91
+
+23时31分25秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分26秒    4    0.00    0.00    0.00    0.00    0.00   15.74    0.00    0.00    0.00   84.26
+
+23时31分26秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分27秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时31分27秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分28秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时31分28秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分29秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时31分29秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分30秒    4    0.00    0.00    0.00    0.00    0.00   14.29    0.00    0.00    0.00   85.71
+
+23时31分30秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分31秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时31分31秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分32秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时31分32秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分33秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时31分33秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分34秒    4    0.00    0.00    0.00    0.00    0.00   14.95    0.00    0.00    0.00   85.05
+
+23时31分34秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分35秒    4    0.00    0.00    0.00    0.00    0.00    5.21    0.00    0.00    0.00   94.79
+
+23时31分35秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分36秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时31分36秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分37秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时31分37秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分38秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时31分38秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分39秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时31分39秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分40秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时31分40秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分41秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时31分41秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分42秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时31分42秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分43秒    4    0.00    0.00    0.00    0.00    0.00   14.95    0.00    0.00    0.00   85.05
+
+23时31分43秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分44秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时31分44秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分45秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时31分45秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分46秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时31分46秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分47秒    4    0.00    0.00    0.00    0.00    0.00    1.09    0.00    0.00    0.00   98.91
+
+23时31分47秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分48秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时31分48秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分49秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时31分49秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分50秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时31分50秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分51秒    4    0.00    0.00    0.00    0.00    0.00    3.23    0.00    0.00    0.00   96.77
+
+23时31分51秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分52秒    4    0.00    0.00    0.00    0.00    0.00   10.78    0.00    0.00    0.00   89.22
+
+23时31分52秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分53秒    4    0.00    0.00    0.00    0.00    0.00    5.21    0.00    0.00    0.00   94.79
+
+23时31分53秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分54秒    4    0.00    0.00    0.00    0.00    0.00   12.50    0.00    0.00    0.00   87.50
+
+23时31分54秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分55秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时31分55秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分56秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时31分56秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分57秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时31分57秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分58秒    4    0.00    0.00    0.00    0.00    0.00   15.09    0.00    0.00    0.00   84.91
+
+23时31分58秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时31分59秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时31分59秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分00秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时32分00秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分01秒    4    0.00    0.00    0.00    0.00    0.00   25.41    0.00    0.00    0.00   74.59
+
+23时32分01秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分02秒    4    0.00    0.00    0.00    0.00    0.00    1.09    0.00    0.00    0.00   98.91
+
+23时32分02秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分03秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时32分03秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分04秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时32分04秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分05秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时32分05秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分06秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时32分06秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分07秒    4    0.00    0.00    0.00    0.00    0.00   12.50    0.00    0.00    0.00   87.50
+
+23时32分07秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分08秒    4    0.00    0.00    0.00    0.00    0.00    2.15    0.00    0.00    0.00   97.85
+
+23时32分08秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分09秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时32分09秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分10秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时32分10秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分11秒    4    0.00    0.00    0.00    0.00    0.00   14.95    0.00    0.00    0.00   85.05
+
+23时32分11秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分12秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时32分12秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分13秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时32分13秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分14秒    4    0.00    0.00    0.00    0.00    0.00   16.98    0.00    0.00    0.00   83.02
+
+23时32分14秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分15秒    4    0.00    0.00    0.00    0.00    0.00   13.33    0.00    0.00    0.00   86.67
+
+23时32分15秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分16秒    4    0.00    0.00    0.00    0.00    0.00    8.08    0.00    0.00    0.00   91.92
+
+23时32分16秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分17秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时32分17秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分18秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时32分18秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分19秒    4    0.00    0.00    0.00    0.00    0.00   14.95    0.00    0.00    0.00   85.05
+
+23时32分19秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分20秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时32分20秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分21秒    4    0.00    0.00    0.00    0.00    0.00   15.74    0.00    0.00    0.00   84.26
+
+23时32分21秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分22秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时32分22秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分23秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时32分23秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分24秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时32分24秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分25秒    4    0.00    0.00    0.00    0.00    0.00   14.95    0.00    0.00    0.00   85.05
+
+23时32分25秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分26秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时32分26秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分27秒    4    0.00    0.00    0.00    0.00    0.00   15.74    0.00    0.00    0.00   84.26
+
+23时32分27秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分28秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时32分28秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分29秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时32分29秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分30秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时32分30秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分31秒    4    0.00    0.00    0.00    0.00    0.00   14.95    0.00    0.00    0.00   85.05
+
+23时32分31秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分32秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时32分32秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分33秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时32分33秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分34秒    4    0.00    0.00    0.00    0.00    0.00   12.50    0.00    0.00    0.00   87.50
+
+23时32分34秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分35秒    4    0.00    0.00    0.00    0.00    0.00    3.19    0.00    0.00    0.00   96.81
+
+23时32分35秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分36秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时32分36秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分37秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时32分37秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分38秒    4    0.93    0.00    0.00    0.00    0.00   14.81    0.00    0.00    0.00   84.26
+
+23时32分38秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分39秒    4    0.00    0.00    0.00    0.00    0.00    7.22    0.00    0.00    0.00   92.78
+
+23时32分39秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分40秒    4    0.00    0.00    0.00    0.00    0.00    6.19    0.00    0.00    0.00   93.81
+
+23时32分40秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分41秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时32分41秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分42秒    4    0.00    0.00    1.10    0.00    0.00    0.00    0.00    0.00    0.00   98.90
+
+23时32分42秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分43秒    4    0.00    0.00    0.95    0.00    0.00   14.29    0.00    0.00    0.00   84.76
+
+23时32分43秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分44秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时32分44秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分45秒    4    0.00    0.00    0.00    0.00    0.00    3.19    0.00    0.00    0.00   96.81
+
+23时32分45秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分46秒    4    0.00    0.00    0.00    0.00    0.00   14.95    0.00    0.00    0.00   85.05
+
+23时32分46秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分47秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时32分47秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分48秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时32分48秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分49秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时32分49秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分50秒    4    0.00    0.00    0.00    0.00    0.00   14.15    0.00    0.00    0.00   85.85
+
+23时32分50秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分51秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时32分51秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分52秒    4    0.00    0.00    0.00    0.00    0.00   22.22    0.00    0.00    0.00   77.78
+
+23时32分52秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分53秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时32分53秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分54秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时32分54秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分55秒    4    0.00    0.00    0.00    0.00    0.00   23.53    0.00    0.00    0.00   76.47
+
+23时32分55秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分56秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时32分56秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分57秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时32分57秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分58秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
+
+23时32分58秒  CPU    %usr   %nice    %sys %iowait    %irq   %soft  %steal  %guest  %gnice   %idle
+23时32分59秒    4    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00  100.00
